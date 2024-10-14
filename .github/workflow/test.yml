@@ -1,5 +1,5 @@
 
-name: Test_project 
+name: Test_project1 
 on: push
 jobs: 
   test:
